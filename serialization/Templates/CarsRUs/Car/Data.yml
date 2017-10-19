@@ -1,0 +1,18 @@
+﻿---
+ID: "f35a15cf-c207-46cd-9094-b8ba95586aec"
+Parent: "c3d6c1f7-e7d1-4e6b-a326-ec967d272354"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/CarsRUs/Car/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171019T165356Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
