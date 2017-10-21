@@ -131,6 +131,7 @@
     <Content Include="App_Config\Include\Unicorn\Unicorn.AutoPublish.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Indexing\Fields\DoneBusinessWith.cs" />
     <Compile Include="Indexing\Fields\PurchasedCarMake.cs" />
     <Compile Include="Indexing\Fields\PurchasedCarModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
