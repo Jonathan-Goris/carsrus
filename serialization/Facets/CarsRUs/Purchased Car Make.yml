@@ -1,0 +1,24 @@
+﻿---
+ID: "51bda21a-61b9-4d50-924f-80b758d74fc3"
+Parent: "6000fb60-4604-40c6-b532-207451c2b1e3"
+Template: "5c125b6d-c481-4c24-b5b9-9a23fe396bf0"
+Path: /sitecore/system/Settings/Buckets/Facets/CarsRUs/Purchased Car Make
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: People/32x32/car_sedan_blue.png
+- ID: "0e23bb51-c071-41b5-9d83-ac410b89b85a"
+  Hint: Parameters
+  Value: purchased_car_make
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171021T121343Z
+    - ID: "31ca077f-ef38-4980-8a24-05408031b2bc"
+      Hint: Name
+      Value: Purchased Car Make
