@@ -132,6 +132,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Indexing\Fields\PurchasedCarMake.cs" />
+    <Compile Include="Indexing\Fields\PurchasedCarModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Templates.cs" />
   </ItemGroup>

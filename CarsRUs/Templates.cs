@@ -26,6 +26,7 @@ namespace CarsRUs
             public struct Fields
             {
                 public static readonly ID Make = new ID("{48DA02A5-E4C2-452A-A4ED-25E92D80BD34}");
+                public static readonly ID Model = new ID("{C3010EFA-06D1-4954-895B-48E4E47EE79B}");
             }
         }
     }

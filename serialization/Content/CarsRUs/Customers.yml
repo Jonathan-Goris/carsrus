@@ -12,7 +12,9 @@ SharedFields:
 - ID: "21f74f6e-42d4-42a2-a4b4-4cefbcfbd2bb"
   Hint: __Facets
   Type: Treelist
-  Value: "{51BDA21A-61B9-4D50-924F-80B758D74FC3}"
+  Value: |
+    {51BDA21A-61B9-4D50-924F-80B758D74FC3}
+    {BB7317C4-A934-468F-B63C-6C16644892B9}
 Languages:
 - Language: en
   Versions:
