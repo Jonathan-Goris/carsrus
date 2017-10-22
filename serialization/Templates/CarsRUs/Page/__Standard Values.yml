@@ -1,0 +1,28 @@
+﻿---
+ID: "3f4082d3-13c6-4b2b-b4bc-56ff858f7e0a"
+Parent: "57de92c4-96b8-4da9-9a3b-4edf9e4b7b09"
+Template: "57de92c4-96b8-4da9-9a3b-4edf9e4b7b09"
+Path: /sitecore/templates/CarsRUs/Page/__Standard Values
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{1AB57A84-EC7D-4764-9011-7256B4B2B027}" />
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171022T084213Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

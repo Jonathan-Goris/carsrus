@@ -1,0 +1,18 @@
+﻿---
+ID: "cc54a1c3-27cb-4b67-a9c2-2fdb04de5795"
+Parent: "da202881-1824-451f-867a-fbe6397672a5"
+Template: "57de92c4-96b8-4da9-9a3b-4edf9e4b7b09"
+Path: /sitecore/content/CarsRUs/Home
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Network/16x16/home.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171022T085919Z
