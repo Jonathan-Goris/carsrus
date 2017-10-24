@@ -1,0 +1,36 @@
+﻿---
+ID: "11fceba9-ba35-47f1-80eb-c3970bc6d81b"
+Parent: "ad1042f9-99c5-4e18-b3c7-fa084b9f7139"
+Template: "17974ef8-f565-4716-a820-2e9dfc73a6a2"
+Path: /sitecore/content/CarsRUs/Car Purchases/Transforming Car and Truck Purchase
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0cf7ac4b-3e61-496d-8274-af2b03861ee5"
+      Hint: Customer
+      Value: "{5A89481C-BC66-4607-B74E-C05F48D6C23D}"
+    - ID: "1e939c5a-7ef1-42f6-8077-25ccb3e17232"
+      Hint: Price Paid
+      Value: 1250
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171024T172209Z
+    - ID: "3bb8925f-6299-42b8-9cd6-c4ffd767b5ff"
+      Hint: Cars
+      Type: Multilist
+      Value: |
+        {2163896B-AAA5-4FC4-86B5-009A50C1160F}
+        {77F93F5F-A2C9-4B01-B6DD-054A6E5EE4EA}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b772ee34-2bcc-430c-b86c-4fb17a7a2b00"
+      Hint: Sales Person
+      Value: "{1D89C291-A048-4EC8-81FF-0C0F11A492F7}"
+    - ID: "c162ea4a-fda3-4307-8d83-57f7dfbf6371"
+      Hint: Order Date
+      Value: 20160504T220000Z

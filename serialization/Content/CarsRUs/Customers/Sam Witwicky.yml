@@ -1,0 +1,45 @@
+﻿---
+ID: "5a89481c-bc66-4607-b74e-c05f48d6c23d"
+Parent: "655671e4-ff16-4b32-82e5-08973acd704e"
+Template: "f8ca835c-a7f5-4346-ac10-9983be99632a"
+Path: /sitecore/content/CarsRUs/Customers/Sam Witwicky
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0553e0a6-bbec-4d9e-8578-d374cd0bb067"
+      Hint: Created
+      Value: 20061012T220000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171024T172008Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "71fb6f74-9c87-4bcd-b3e6-3abe236ba018"
+      Hint: Name
+      Value: Sam
+    - ID: "80ab5df4-657b-4684-80ec-0ca861dd5471"
+      Hint: Country
+      Value: USA
+    - ID: "811d78fd-5791-4554-9318-3eeff708a336"
+      Hint: Street
+      Value: At parents
+    - ID: "8b977667-015c-403e-9c26-353678bd35c8"
+      Hint: Age
+      Value: 16
+    - ID: "a21708eb-6c59-4e6e-ba3f-073212e20d57"
+      Hint: Surname
+      Value:  Witwicky
+    - ID: "b64b807d-3b3b-4903-b174-063794a1ef2e"
+      Hint: ZipCode
+      Value: 4522
+    - ID: "d25346d9-6ce7-4067-8a04-76784d91a2d2"
+      Hint: HouseNumber
+      Value: 1000
+    - ID: "e29d8c2a-b1bf-414f-a668-c3476f2dc69b"
+      Hint: Town
+      Value: Transformer Town

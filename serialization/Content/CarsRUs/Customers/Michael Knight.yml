@@ -1,0 +1,45 @@
+﻿---
+ID: "4015972f-bfd9-4734-aee4-9ec3ad236396"
+Parent: "655671e4-ff16-4b32-82e5-08973acd704e"
+Template: "f8ca835c-a7f5-4346-ac10-9983be99632a"
+Path: /sitecore/content/CarsRUs/Customers/Michael Knight
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0553e0a6-bbec-4d9e-8578-d374cd0bb067"
+      Hint: Created
+      Value: 19820926T171000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171024T170911Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "71fb6f74-9c87-4bcd-b3e6-3abe236ba018"
+      Hint: Name
+      Value: Michael
+    - ID: "80ab5df4-657b-4684-80ec-0ca861dd5471"
+      Hint: Country
+      Value: USA
+    - ID: "811d78fd-5791-4554-9318-3eeff708a336"
+      Hint: Street
+      Value: F.L.A.G. Street
+    - ID: "8b977667-015c-403e-9c26-353678bd35c8"
+      Hint: Age
+      Value: 34
+    - ID: "a21708eb-6c59-4e6e-ba3f-073212e20d57"
+      Hint: Surname
+      Value: Knight
+    - ID: "b64b807d-3b3b-4903-b174-063794a1ef2e"
+      Hint: ZipCode
+      Value: 1234
+    - ID: "d25346d9-6ce7-4067-8a04-76784d91a2d2"
+      Hint: HouseNumber
+      Value: 1
+    - ID: "e29d8c2a-b1bf-414f-a668-c3476f2dc69b"
+      Hint: Town
+      Value: F.L.A.G. Town

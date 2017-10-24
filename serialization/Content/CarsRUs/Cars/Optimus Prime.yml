@@ -1,0 +1,35 @@
+﻿---
+ID: "77f93f5f-a2c9-4b01-b6dd-054a6e5ee4ea"
+Parent: "0e3402aa-9cb7-486a-8db2-014b2ee23f49"
+Template: "c3d6c1f7-e7d1-4e6b-a326-ec967d272354"
+Path: /sitecore/content/CarsRUs/Cars/Optimus Prime
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171024T172346Z
+    - ID: "300b8e89-2570-4c93-82fb-81b8be3ab0bc"
+      Hint: Color
+      Value: Red/blue
+    - ID: "48da02a5-e4c2-452a-a4ed-25e92d80bd34"
+      Hint: Make
+      Value: Western Star
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7b5785e3-ac28-4fc6-a188-6e709ee0c84d"
+      Hint: Recommended Price
+      Value: 12500000
+    - ID: "c3010efa-06d1-4954-895b-48e4e47ee79b"
+      Hint: Model
+      Value: 4900 Phantom Custom
+    - ID: "f9fdbabb-c751-4bd4-9e5c-c84a3bdbf70c"
+      Hint: Extras
+      Value: |
+        Transforms into a robot
+        Cool red and blue flame decals.
