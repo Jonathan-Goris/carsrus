@@ -1,0 +1,28 @@
+﻿@model CarsRUs.Models.CustomerSearchViewModel
+
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(m => m.Name)
+    @Html.TextBoxFor(m => m.Name)
+
+    @Html.LabelFor(m => m.Street)
+    @Html.TextBoxFor(m => m.Street)
+
+    @Html.LabelFor(m => m.PurchasedCarMake)
+    @Html.DropDownListFor(m => m.PurchasedCarMake, new SelectList(Model.CarMakes), "")
+
+    @Html.LabelFor(m => m.PurchasedCarModel)
+    @Html.DropDownListFor(m => m.PurchasedCarModel, new SelectList(Model.CarModels), "")
+    
+    @Html.LabelFor(m => m.DoneBusinessWith)
+    @Html.DropDownListFor(m => m.DoneBusinessWith, new SelectList(Model.SalesPeople), "")
+
+    <input type="submit" value="Search" />
+
+    <ul>
+    @foreach(var customer in Model.Customers)
+    {
+        @Html.Partial("_Customer", customer)
+    }
+    </ul>
+}

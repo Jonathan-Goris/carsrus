@@ -1,0 +1,13 @@
+﻿@model CarsRUs.Models.CustomerSearchResultItem
+
+<li>
+    <h2>@Model.FirstName @Model.Surname<small>, @Model.Age years old</small></h2>
+    
+    <p>
+        @Model.Street @Model.HouseNumber<br />
+        @Model.ZipCode @Model.Town<br />
+        @Model.Country
+    </p>
+    
+    <small>Created on @Model.Created.ToLocalTime().ToShortDateString()</small>
+</li>

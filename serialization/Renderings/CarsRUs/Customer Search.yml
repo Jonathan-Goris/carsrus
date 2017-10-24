@@ -2,12 +2,12 @@
 ID: "9e63ba46-5136-484d-a58b-0c97ef61e4f2"
 Parent: "0e9eea96-d0c3-41e7-afcd-b2dac480da6a"
 Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
-Path: /sitecore/layout/Renderings/CarsRUs/Search
+Path: /sitecore/layout/Renderings/CarsRUs/Customer Search
 DB: master
 SharedFields:
 - ID: "e64ad073-dfcc-4d20-8c0b-fe5aa6226cd7"
   Hint: Controller
-  Value: CarsRUs.Controllers.SearchController, CarsRUs
+  Value: CarsRUs.Controllers.CustomerSearchController, CarsRUs
 Languages:
 - Language: en
   Versions:
